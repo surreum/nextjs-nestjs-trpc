@@ -8,3 +8,5 @@ export const trpc = createTRPCProxyClient<AppRouter>({
 		}),
 	],
 });
+
+// nextjs-nestjs-trpc-production-053a.up.railway.app
